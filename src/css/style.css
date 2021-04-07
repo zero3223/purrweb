@@ -14,7 +14,7 @@
     width: 1440px;
     display: block;
     height: 1070px;
-    background: #555555;
+    background: #000000;
 
 }
 
@@ -177,7 +177,7 @@
     width: 662.63px;
     height: 783.03px;
     left: 835.35px;
-    top: 500.31px;
+    top: 50.31px;
 
     background: rgba(250, 0, 255, 0.2);
     filter: blur(250px);
@@ -207,8 +207,6 @@
     font-weight: normal;
     font-size: 14px;
     line-height: 19px;
-    /* identical to box height */
-
 
     color: #FFFFFF;
 }
@@ -240,4 +238,309 @@
     text-align: center;
 
     color: #FFFFFF;
+}
+
+.iphoneX {
+    position: absolute;
+    height: 667.8014526367188px;
+    width: 332.87860107421875px;
+    left: 923px;
+    top: 150px;
+    border-radius: 0px;    
+    background-size: 100%;
+    background-position: center;
+    background: url(/src/img/iPhone\ X\ image.png) center center / cover no-repeat; 
+}
+
+.back_iphone {
+    display: block;
+    position: absolute;
+    width: 307.77px;
+    height: 631.35px;
+    left: 892.11px;
+    top: 159.6px;
+
+    background: #000000;
+    opacity: 0.4;
+    filter: blur(71.6833px);
+}
+
+.time {
+    position: absolute;
+    height: 8.621484756469727px;
+    width: 22.166091918945312px;
+    left: 968.9814453125px;
+    top: 183.2734375px;
+    border-radius: 0px;    
+    background: url(/src/icons/9_41.png) center center / cover no-repeat;
+}
+
+.rectangle_full {
+    position: absolute;
+    height: 8.811555862426758px;
+    width: 17.111032485961914px;
+    left: 1204.320556640625px;
+    top: 183.40234375px;
+    border-radius: 1.8135281801223755px;
+    
+
+    mix-blend-mode: normal;
+    border: 0.680073px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 1.81353px;
+}
+
+.rectangle_part {
+    position: absolute;
+    height: 6.21992301940918px;
+    width: 5.4444122314453125px;
+    left: 1205.878173828125px;
+    top: 184.69775390625px;
+    border-radius: 0.9067640900611877px;
+    
+
+    background: #FFFFFF;
+    border-radius: 0.906764px;
+}
+
+.combined_shape {
+    position: absolute;
+    height: 3.109962224960327px;
+    width: 1.0328965187072754px;
+    left: 1222.210205078125px;
+    top: 186.2529296875px;
+    border-radius: 0px;
+    
+
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+}
+
+
+.upper_wifi {
+    position: absolute;
+    height: 3.687821626663208px;
+    width: 11.87844467163086px;
+    left: 1188.528076171875px;
+    top: 183.3994140625px;
+    border-radius: 0px;
+    
+
+    background: #DADADA;
+}
+
+.middle_wifi {
+    position: absolute;
+    height: 2.8253846168518066px;
+    width: 7.738081932067871px;
+    left: 1190.59912109375px;
+    top: 186.349609375px;
+    border-radius: 0px;
+    
+
+    background: #DADADA;
+}
+
+.lower_wifi {
+    position: absolute;
+    height: 2.6235694885253906px;
+    width: 3.5982208251953125px;
+    left: 1192.66845703125px;
+    top: 189.30126953125px;
+    border-radius: 0px;
+
+
+    background: #DADADA;
+}
+
+.cellular_signal_1 {
+    position: absolute;
+    height: 3.1099631786346436px;
+    width: 2.3333075046539307px;
+    left: 1171.39501953125px;
+    top: 188.84423828125px;
+    border-radius: 0px;    
+
+    background: #DADADA;
+}
+
+.cellular_signal_2 {
+    position: absolute;
+    height: 4.664943695068359px;
+    width: 2.3333282470703125px;
+    left: 1175.0244140625px;
+    top: 187.28955078125px;
+    border-radius: 0px;    
+
+background: #DADADA;
+}
+
+.cellular_signal_3 {
+    position: absolute;
+    height: 6.479082107543945px;
+    width: 2.3333282470703125px;
+    left: 1178.65380859375px;
+    top: 185.4755859375px;
+    border-radius: 0px;
+    
+background: #DADADA;
+}
+
+.cellular_signal_4 {
+    position: absolute;
+    height: 8.293228149414062px;
+    width: 2.3333282470703125px;
+    left: 1182.283203125px;
+    top: 183.66162109375px;
+    border-radius: 0px;    
+
+background: #DADADA;
+}
+
+.shell {
+    position: absolute;
+    width: 163.53px;
+    height: 51.33px;
+    left: 901px;
+    top: 901px;
+
+    border: 1.28315px solid #FFFFFF;
+    box-sizing: border-box;
+}
+
+.upper_apple {
+    position: absolute;
+    width: 6.02px;
+    height: 6.45px;
+    left: 926.66px;
+    top: 912.19px;
+
+    background: #FFFFFF;
+}
+
+.lower_part_apple {
+    position: absolute;
+    width: 24.21px;
+    height: 21.2px;
+    left: 914.64px;
+    top: 918.93px;
+
+    background: url(/src/icons/XMLID\ 7.jpg) center center / cover no-repeat;
+}
+
+
+
+
+
+
+
+.goal {
+    width: 1440px;
+    display: block;
+    height: 1400px;
+    background: #000000;
+}
+
+.rectangle {
+    position: absolute;
+    width: 503px;
+    height: 312px;
+    left: 176px;
+    top: 1131px;
+
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    border-radius: 21.3671px;
+}
+
+.rectangle2 {
+    position: absolute;
+    width: 503px;
+    height: 312px;
+    left: 760px;
+    top: 1131px;
+
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    border-radius: 21.371px;
+}
+
+
+.rectangle_txt_1 {
+    display: block;
+
+    width: 375px;
+    height: 123px;
+    margin: 64px 73px 30px 55px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    display: flex;
+    align-items: flex-end;
+
+    color: #FFFFFF;
+}
+
+.rectangle_txt_2 {
+    display: block;
+    width: 325px;
+    height: 46.22px;
+    margin: 97px 123px 30px 54.78px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.rectangle_txt_link_1 {
+    width: 232px;
+    height: 33px;
+    margin: 30px 216px 62px 55px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+.rectangle_txt_link_2 {
+    width: 88.11px;
+    height: 44.78px;
+    margin: 30px 360.11px 94px 54.78px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+.iphoneX_second {
+    position: absolute;
+    display: block;
+    margin: 246px 168px 283px 0;
+    height: 999.058349609375px;
+    width: 498px;
+    border-radius: 0px;
+    
+
+    background: url(/src/img/iPhone\ X\ image.png) center center / cover no-repeat; 
+    transform: rotate(90deg);
 }
